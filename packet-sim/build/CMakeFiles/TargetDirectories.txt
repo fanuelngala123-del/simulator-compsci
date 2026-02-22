@@ -1,0 +1,3 @@
+/home/keedastro/projects/weber/packet-sim/build/CMakeFiles/sim.dir
+/home/keedastro/projects/weber/packet-sim/build/CMakeFiles/edit_cache.dir
+/home/keedastro/projects/weber/packet-sim/build/CMakeFiles/rebuild_cache.dir
